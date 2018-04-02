@@ -162,6 +162,17 @@ footer ul li {
   margin: 0 26px 75px;
 }
 
+
+footer ul {
+  display: flex;
+  max-width: 200px;
+  margin: auto;
+  padding: 0;
+  justify-content: space-between;
+}
+
+
+
 footer p {
   font-size: 18px;
   color: #fff;
